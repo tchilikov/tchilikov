@@ -1,5 +1,5 @@
 Hi, I’m Chris 👋\
-I'm currently a Computer Engineering student at UIUC, and really enjoy working on IC design.\
+I'm currently a Computer Engineering student at UIUC, and I really enjoy working on low-level design.\
 On this GitHub, expect to find personal projects I've had fun working on.
 
 <!---
